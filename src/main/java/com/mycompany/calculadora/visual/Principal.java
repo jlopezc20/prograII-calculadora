@@ -21,6 +21,7 @@ public class Principal extends javax.swing.JFrame {
     public void setPantalla(String valor){
         String valorOld = jtxtPantalla.getText();
         System.out.println("Otro cambio");
+        System.out.println("Otro cambio, tercer commit");
     }
 
     /**
